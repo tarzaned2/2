@@ -4,18 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03981d6b-05d9-46a4-893e-5576ce335237" name="변경" comment="1.2">
-      <change afterPath="$PROJECT_DIR$/class2/class2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class2/class2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class2/class2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class2/icefactory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class2/oneicesell.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class2/parent" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class2/parent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class2/w13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class2/w13_2.py" afterDir="false" />
+    <list default="true" id="03981d6b-05d9-46a4-893e-5576ce335237" name="변경" comment="1.3">
+      <change afterPath="$PROJECT_DIR$/etc/abstractclass_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/baseice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/boy_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/boy_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/classmethod_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/factory1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/factory2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/factory_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/it_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/it_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/nod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/parants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/raise_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/raise_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/raise_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/raise_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/realsell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/sell1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/sell2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/standclass_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/static.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nod/ezen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nod/ezen1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nod/ezenf_actory1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nod/school_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/class_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/class/class_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class2/icefactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/class2/icefactory.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +67,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.oneicesell">
-    <configuration name="class2_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.school_1">
+    <configuration name="ezen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nod" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class2/class2_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nod/ezen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ezen1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nod" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/class_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nod/ezen1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oneicesell" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="school_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nod" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class2/oneicesell.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nod/school_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="w13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sell1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class2/w13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etc/sell1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="w13_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sell2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class2/w13_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etc/sell2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.oneicesell" />
-        <item itemvalue="Python.w13_2" />
-        <item itemvalue="Python.w13" />
-        <item itemvalue="Python.class2_1" />
-        <item itemvalue="Python.class_7" />
+        <item itemvalue="Python.school_1" />
+        <item itemvalue="Python.ezen1" />
+        <item itemvalue="Python.ezen" />
+        <item itemvalue="Python.sell2" />
+        <item itemvalue="Python.sell1" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690431590920</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1.3">
+      <option name="closed" value="true" />
+      <created>1690518006208</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690518006208</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -259,7 +285,8 @@
     <MESSAGE value="1.0" />
     <MESSAGE value="1.1" />
     <MESSAGE value="1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.2" />
+    <MESSAGE value="1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
